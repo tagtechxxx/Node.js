@@ -1,0 +1,11 @@
+{
+  "name": "check",
+  "version": "1.0.0",
+  "description": "",
+  "main": "baby-steps.js",
+  "scripts": {
+    "start": " node mymodule.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
